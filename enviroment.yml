@@ -1,0 +1,11 @@
+# conda env create --file environment.yml
+name: songs_population
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - python=3.10
+  - pip:
+    
