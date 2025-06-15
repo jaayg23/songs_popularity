@@ -3,6 +3,6 @@
 By: Jacobo Ayala Giraldo
 
 
-This project tries to determinated a possible population of songs, using machine and deep learning.
+This project tries to determinated a possible popularity of songs, using machine and deep learning.
 
 ## License
