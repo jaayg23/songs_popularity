@@ -53,7 +53,7 @@ El proyecto sigue los siguientes pasos:
 
 1. Clonar el repositorio:
 ```bash
-git clone [URL del repositorio]
+git clone https://github.com/jaayg23/songs_popularity.git
 cd songs_population
 ```
 
@@ -69,11 +69,3 @@ Los resultados del análisis y predicciones se pueden encontrar en:
 - `notebooks/Machine Learning/real_vs_predicted_popularity.png`: Comparación visual entre popularidad real y predicha
 - `notebooks/popularity_by_genre.png`: Análisis de popularidad por género musical
 
-## Licencia
-
-[Especificar tipo de licencia]
-
-## Contacto
-
-Jacobo Ayala Giraldo
-[Agregar información de contacto si se desea]
